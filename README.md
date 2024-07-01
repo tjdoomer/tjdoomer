@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tjdoomer
-- 👀 I’m interested in creating and programming audio & visual technologies.
+- 👀 I’m interested in creating and programming audio & visual technology projects.
 - 🌱 I’m currently learning anything and everything.
 - 💞️ I’m looking to collaborate on some raspberry pi, audio or video projects
 - 📫 How to reach me, send me a message.
